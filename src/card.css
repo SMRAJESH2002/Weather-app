@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box1{
+    height:400px;
+    width: 350px;
+    
+    position:absolute ;
+    top: 20px;
+    left:35%;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+}
+#ic{
+    width: 250px;
+    height: 35px;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-top:40px;
+    padding: 10px;
+}
+.icon1{
+    width:40px;
+    height: 40px;
+    padding: 10px;
+    font-size:15px;
+    position: relative;
+    top:0;
+    left:0;
+    border: 2px solid black;
+    border-radius: 50%;
+    color:red;
+}
+.icon2{
+    position: relative;
+    top: 5px;
+    font-size: 50px;
+    color:rgb(10, 137, 146);
+
+}
+h2{
+    position: relative;
+    top: 10px;
+}
+.h1{
+    position: relative;
+    top:40px;
+    left:-100px;
+}
+.h2{
+    position: relative;
+    left: 75px;
+    top: -55px;
+}
+.icon3{
+    position: relative;
+    left:-120px;
+    top:40px;
+    font-size:50px;
+    color:rgb(255, 132, 0);
+}
+.icon4{
+    font-size:35px;
+    position: relative;
+    left:80px;
+    top: -50px;
+    color: blue;
+}
